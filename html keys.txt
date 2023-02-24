@@ -1,0 +1,144 @@
+The following attributes are standard across all HTML elements. Therefore, you can use these attributes with the <aside> tag , as well as with all other HTML tags.
+
+accesskey
+autocapitalize
+class
+contenteditable
+data-*
+dir
+draggable
+hidden
+id
+inputmode
+is
+itemid
+itemprop
+itemref
+itemscope
+itemtype
+lang
+part
+slot
+spellcheck
+style
+tabindex
+title
+translate
+AUDIO ATTRIBUTE:
+
+<audio src="/music/good_enough.mp3" controls>
+<p>If you are reading this, it is because your browser does not support the audio element.</p>
+</audio>
+
+BASE:
+The following attributes are standard across all HTML elements. Therefore, you can use these attributes with the <base> tag , as well as with all other HTML tags.
+
+accesskey
+autocapitalize
+class
+contenteditable
+data-*
+dir
+draggable
+hidden
+id
+inputmode
+is
+itemid
+itemprop
+itemref
+itemscope
+itemtype
+lang
+part
+slot
+spellcheck
+style
+tabindex
+title
+translate
+
+bdo:
+The following attributes are standard across all HTML elements. Therefore, you can use these attributes with the <bdo> tag , as well as with all other HTML tags.
+
+accesskey
+autocapitalize
+class
+contenteditable
+data-*
+dir
+draggable
+hidden
+id
+inputmode
+is
+itemid
+itemprop
+itemref
+itemscope
+itemtype
+lang
+part
+slot
+spellcheck
+style
+tabindex
+title
+translate
+
+
+
+button:
+<form action="/html/tags/html_form_tag_action.cfm" method="get" target="_blank" id="my_form">
+First name:
+<input type="text" name="first_name" maxlength="100">
+<br />
+Last name:
+<input type="text" name="last_name" maxlength="100">
+</form>
+<p>Other content...</p>
+<button type="submit" form="my_form">Submit</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
